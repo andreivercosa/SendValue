@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SendValue.Result"
+             >
+   <StackLayout>
+        <Label Text=""
+               FontSize="25"
+               x:Name="result"
+               
+               />
+        <Button Text="Tela Anteior"
+                Margin="50,300,10,1"
+                HorizontalOptions="Start"
+                VerticalOptions="End"
+                Clicked="VoltarTela"
+                
+                />
+   </StackLayout>
+</ContentPage>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SendValue"
+             x:Class="SendValue.MainPage">
+    <StackLayout Padding="5,10">
+        <!-- Place new controls here -->
+        <Label Text="Informe os Numeros para Somar"
+               FontSize="25"
+               x:Name="texto"
+               />
+        
+        <Entry
+               Placeholder="Digite um numero"
+            PlaceholderColor="Blue"
+               Keyboard="Numeric"
+                x:Name="Num1"
+               />
+        
+         <Entry 
+                Placeholder="Digite um numero"
+                PlaceholderColor="Blue"
+               Keyboard="Numeric"
+                 x:Name="Num2"
+               />
+        <Button
+            Text="Calcular"
+            Clicked="calcular"
+               />
+    </StackLayout>
+</ContentPage>

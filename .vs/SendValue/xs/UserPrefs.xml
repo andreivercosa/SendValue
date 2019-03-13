@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E351694D-31B0-4AD0-9514-6F1A5599F231}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SendValue/Result.xaml">
+    <Files>
+      <File FileName="SendValue/MainPage.xaml.cs" Line="14" Column="54" />
+      <File FileName="SendValue/MainPage.xaml" Line="11" Column="12" />
+      <File FileName="SendValue/Result.xaml" Line="13" Column="29" />
+      <File FileName="SendValue/Result.xaml.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SendValue" expanded="True">
+            <Node name="SendValue" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Result.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SendValue.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SendValue.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
